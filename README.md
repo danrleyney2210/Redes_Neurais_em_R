@@ -17,7 +17,12 @@
 ![MLP](https://github.com/danrleyney2210/Redes_Neurais_UEMA/blob/main/Images/mamografia/arquitetura%20MLP%2001.jpg)
 
 #### Imagens Resultados MLP 2 (Mamografia)
-![MLP](https://github.com/danrleyney2210/Redes_Neurais_UEMA/blob/main/Images/mamografia/arquitetura%20MLP%2002.jpg)
+![MLP2](https://github.com/danrleyney2210/Redes_Neurais_UEMA/blob/main/Images/mamografia/arquitetura%20MLP%2002.jpg)
+
+## Métricas MLP 1 e MLP 2 (Mamografia)
+![m1](https://github.com/danrleyney2210/Redes_Neurais_UEMA/blob/main/Images/mamografia/metricas%20MLP1.jpg)
+- - - - - - - - - 
+![m1](https://github.com/danrleyney2210/Redes_Neurais_UEMA/blob/main/Images/mamografia/METRICAS%202%20MLP.jpg)
 
 
 
