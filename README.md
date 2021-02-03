@@ -13,6 +13,7 @@
  ### DataSet Utilizados
 - Mamgorafia, Câncer, Diabetes
 #### Disponíveis em : https://archive.ics.uci.edu/ml/index.php 
-
+### Imagens Resultados MLP (Mamografia)
+![MLP](https://github.com/danrleyney2210/Redes_Neurais_UEMA/blob/main/Images/mamografia/arquitetura%20MLP%2001.jpg)
 
 
