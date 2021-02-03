@@ -1,6 +1,6 @@
 # Redes Neurais ()
 ## Aplicando Redes Neurais utilizando base de dados da UCI
-
+#### Atividade do curso de Pós-graduação (Mestrado) em Engenharia de Computadores e Sistemas (UEMA) - Campus: São Luís
 ### Linguagem de Programação utilizada
 - Linguagem R
 ### Software Utilizado
@@ -34,6 +34,6 @@
 ![kfoldrg](https://github.com/danrleyney2210/Redes_Neurais_UEMA/blob/main/Images/mamografia/K-FOLD%20RG.jpg)
 
 
-
+#### As demais Imagens dos resultados dos outros 2 Dataset se encontram na pasta 'Images'
 
 
