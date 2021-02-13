@@ -1,6 +1,6 @@
-# Redes Neurais ()
+# Redes Neurais 
 ## Aplicando Redes Neurais utilizando base de dados da UCI
-#### Atividade do curso de Pós-graduação (Mestrado) em Engenharia de Computadores e Sistemas (UEMA) - Campus: São Luís
+#### Curso de Pós-graduação (Mestrado) em Engenharia de Computadores e Sistemas (UEMA) - Campus: São Luís
 
 ### Linguagem de Programação utilizada
 - Linguagem R
